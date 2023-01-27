@@ -1,5 +1,5 @@
 {
-  "name": "web2_nodejs",
+  "name": "web2-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -11,15 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mockjeong/web2_nodejs.git"
+    "url": "git+https://github.com/web-n/Nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mockjeong/web2_nodejs/issues"
+    "url": "https://github.com/web-n/Nodejs/issues"
   },
-  "homepage": "https://github.com/mockjeong/web2_nodejs#readme",
+  "homepage": "https://github.com/web-n/Nodejs#readme",
   "dependencies": {
-    "sanitize-html": "^2.8.1"
+    "mysql": "^2.18.1",
+    "sanitize-html": "^1.18.2"
   }
 }
